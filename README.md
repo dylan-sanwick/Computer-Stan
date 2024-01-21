@@ -5,6 +5,7 @@
 This computer is iconic yet doesn't get enough recognition. I think that it deserves the pride because for its time it was a magnificent computer yet compared to today's standards it isn't. I think that people don't understand what this computer did for the U.S. and making the mark in **history**. It provided computation and electronic interfaces for guidance, navigation, and control of the spacecraft.
 
 **Here are the specs of this computer:**
+
 | Specs        | AGC           | My PC (Legion)  |
 | ------------- |:-------------:| -----:|
 | Processor type and speed   | Discrete silicon integrated circuit (IC) chips (RTL based) | Intel Core i9-13900KF   |
