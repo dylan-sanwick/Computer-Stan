@@ -8,11 +8,12 @@ This computer is iconic yet doesn't get enough recognition. I think that it dese
 
 | Specs        | AGC           | My PC (Legion)  |
 | ------------- |:-------------:| -----:|
-| Processor type and speed   | Discrete silicon integrated circuit (IC) chips (RTL based) | Intel Core i9-13900KF   |
+| Processor type and speed   | Discrete silicon integrated circuit[^1]  | Intel Core i9-13900KF   |
 | Storage (HDD or SSD and amount of space)      | centered      |   One terabite of storage |
-| Memory (RAM) | RAM of `4KB`, a `32KB` hard disk   |   32 gigabites of RAM   |
+| Memory (RAM) | RAM of `4KB`, a `32KB` hard disk[^2]   |   32 gigabites of RAM   |
 | Frequency   |   `2.048 MHz`   |   4800 MHz   | 
-
+[^2]: (magnetic-core memory)
+[^1]: (IC) chips (RTL based)
 
 While this computer undoubtedly did amazing things, it still barely even comes close to the power of today's computers, for instance, the computer i own, has
 
